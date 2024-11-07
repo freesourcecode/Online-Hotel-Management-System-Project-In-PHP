@@ -32,10 +32,9 @@ The system also can be used for easy storing and retrieval of information of gue
 * Online Hotel Management System Project Homepage
 # How to Install the Management System in PHP?
 1. Extract the downloaded file
-2. then copy it inside your root directory.
+2. After that, copy it inside your root directory.
 3. Next, create a new database in your phpmyadmin.
-4. then, name it as “justinesdb”,
-5. and import the SQL file that can be found inside the “justines” folder named “justinesdb.sql”.
+4. Then, name it as “justinesdb”, and import the SQL file that can be found inside the “justines” folder named “justinesdb.sql”.
 
 Full documentation for the **Online Hotel Management System Project in PHP with Source Code** is available at:
 https://itsourcecode.com/free-projects/php-project/hotel-management-system-project-php/

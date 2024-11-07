@@ -1,5 +1,5 @@
 # Online Hotel Management System Project in PHP with Source Code
-The Hotel Management System is created using PHP/MySQL along with complete source code.
+The** Hotel Management System is created using PHP/MySQL along with complete source code**.
 
 It contains significant capabilities that will enable all users to communicate with one another in the manner required by a system to communicate with clients in order to preserve daily records, room booking information, and other data.
 
